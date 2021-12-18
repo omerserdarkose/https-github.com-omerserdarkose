@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Serdar</h1>
+- 🔭 I’m currently a **Patika-Gelecek Varlık Full Stack Bootcamp participant**
+
 - 🌱 I’m currently learning **.Net Core and ReactJS**
 
 - 📫 How to reach me **omerserdarkose@gmail.com**
